@@ -7,7 +7,9 @@ I valori nei nodi soddisfano una proprietà dell'heap. In un max-heap , la propr
 L'altezza di un heap è log(n).
 
 ##### Max-Heapfy (serve a mantenere la proprietà di max-heap)
-Si Può utilizzare Max-Heapfy dal basso verso l'alto per convertire un array in un max-heap
+Si Può utilizzare Max-Heapfy dal basso verso l'alto per convertire un array in un max-heap.
+
+Si può costruire un max-heap da un array non ordinato in tempo lineare O(n).
 
 
 
